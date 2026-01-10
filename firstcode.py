@@ -50,3 +50,4 @@ server.login(sender_mail, password)
 server.sendmail(sender_mail, receiver_mail, message)
 print("Email Sent to", sender_mail)
 server.quit() 
+#What have i done....
