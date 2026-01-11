@@ -1,4 +1,4 @@
-Прив<Key.cmd: <55>> Pressed.
+Привеня зо<Key.cmd: <55>> Pressed.
 c<Key.cmd: <55>> Pressed.
 c<Key.cmd: <55>> Pressed.
 v
@@ -123,4 +123,12 @@ Backspace Pressed
 Сосед<Key.shift: <56>> Pressed.
 Эсэй я тебя люблю код на ка
 Backspace Pressed
-арте 6116
+арте 6116vtyz
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+ почемсу так часто пропадаешь
